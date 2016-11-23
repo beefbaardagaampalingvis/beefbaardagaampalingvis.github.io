@@ -1,22 +1,31 @@
+html{
+	height:100%;
+}
 body {
  	background: #2679ff;
 	background: -webkit-linear-gradient(90deg, #2578fc, #307fff);
 	background: linear-gradient(90deg, #2578fc, #307fff);
 	min-width: 960px;
+	height:100%;
 }
 
-.title {
+#title {
 	color:#ffffff;
-	-webkit-animation: fadein 1s;
-       	-moz-animation: fadein 1s;
-        -ms-animation: fadein 1s;
-        -o-animation: fadein 1s;
-        animation: fadein 1s;
+	-webkit-animation: fadein 1.5s;
+       	-moz-animation: fadein 1.5s;
+        -ms-animation: fadein 1.5s;
+        -o-animation: fadein 1.5s;
+        animation: fadein 1.5s;
 	text-align:center;
 	margin:auto;
 	font-weight:300;
-	font-size:100dp;
+	font-size:300%;
 	font-family:Arial;
+}
+
+#end {
+	margin-bottom:0px;
+	margin-top:64%;
 }
 
 @keyframes fadein {
