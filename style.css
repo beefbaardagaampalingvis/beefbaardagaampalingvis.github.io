@@ -7,15 +7,16 @@ body {
 
 .title {
 	color:#ffffff;
-	-webkit-animation: fadein 2s;
-       	-moz-animation: fadein 2s;
-        -ms-animation: fadein 2s;
-        -o-animation: fadein 2s;
-        animation: fadein 2s;
+	-webkit-animation: fadein 1s;
+       	-moz-animation: fadein 1s;
+        -ms-animation: fadein 1s;
+        -o-animation: fadein 1s;
+        animation: fadein 1s;
 	text-align:center;
 	margin:auto;
-	font-size:50dp;
-	font-family:monospace;
+	font-weight=300;
+	font-size:100dp;
+	font-family:Arial;
 }
 
 @keyframes fadein {
