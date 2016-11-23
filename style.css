@@ -1,6 +1,6 @@
 body {
-  background: #0e0f11;
-	background: -webkit-linear-gradient(90deg, #000000, #1E2124);
-	background: linear-gradient(90deg, #000000, #1E2124);
+ 	background: #2679ff;
+	background: -webkit-linear-gradient(90deg, #2578fc, #307fff);
+	background: linear-gradient(90deg, #2578fc, #307fff);
 	min-width: 960px;
 }
