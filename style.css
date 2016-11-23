@@ -5,7 +5,7 @@ body {
 	min-width: 960px;
 }
 
-div {
+.title {
 	color:#ffffff;
 	-webkit-animation: fadein 2s;
        	-moz-animation: fadein 2s;
