@@ -4,13 +4,18 @@ html {
 }
 
 body {
- 	background: #2679ff;
+ 	background: #307fff;
 	background: -webkit-linear-gradient(90deg, #2578fc, #307fff);
 	background: linear-gradient(90deg, #2578fc, #307fff);
 	min-width: 960px;
 	height:100%;
 	width:100%;
 }
+
+#top {
+	height:10%
+	background:#000000;
+}	
 
 #title {
 	color:#ffffff;
